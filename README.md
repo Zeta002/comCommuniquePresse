@@ -2,13 +2,7 @@
 
 #### **21/11/2023**
 
-<div style="display: flex">
-    <img src="osu!.svg.png" alt="Osu! Logo" width="200" height="200" />
-    <div style="display: flex; align-items: center">
-        <img src="x.png" alt="x" width="60" height="60" />
-    </div>
-    <img src="rf.svg.png" alt="Logo de la République française" width="300" height="200" />
-</div>
+<img src="image.png">
 
 
 # Osu! et l'Éducation National unissent leurs forces pour promouvoir l'éducation et la créativité
