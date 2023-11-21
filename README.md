@@ -71,4 +71,4 @@ Ce communiqué de presse est destiné aux presse suivantes :
 *  PORTELLI Angelo  
 *  Rédacteur amateur  
 * [angeloportelli05@gmail.com]()
-*  +33 6 51 82 52 75**
+*  +33 6 51 82 52 75
