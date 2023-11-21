@@ -1,9 +1,4 @@
-# Communiqué de Presse
-
-#### **21/11/2023**
-
 <img src="image.png">
-
 
 # Osu! et l'Éducation National unissent leurs forces pour promouvoir l'éducation et la créativité
 
